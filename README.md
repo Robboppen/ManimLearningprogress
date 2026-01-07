@@ -49,7 +49,7 @@ A lighter version of the previous visualization, focused on fundamental concepts
 
 **Demo:**
 
-![Spacetime Deformation Simple](https://github.com/user-attachments/assets/21826bba-2583-42c9-8a7c-c5e2682c7550 )
+https://github.com/user-attachments/assets/21826bba-2583-42c9-8a7c-c5e2682c7550 
 
 **Physical Concepts:**
 - Spacetime curvature
